@@ -76,6 +76,7 @@ public class Main {
         for(int i=0; i<movieNames.length; i++){
             System.out.print(movieNames[i] + " , ");
         }
+        System.out.println();
     }
 
     public static void availableSeatsNumbers(){
